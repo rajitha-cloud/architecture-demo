@@ -1,0 +1,8 @@
+this is seciond command
+second file created for practice purpose:,
+some information is here in this file
+:wq!
+;and some more files are added
+	
+:wq!
+
